@@ -27,4 +27,4 @@ Berikut kode hasil dari praktikum ini.
 
 output :
 
-![screenshot_github](./screenshots/screenshot_github.jpg)
+![screeshot_github](./screenshots/screeshot_github.png)
