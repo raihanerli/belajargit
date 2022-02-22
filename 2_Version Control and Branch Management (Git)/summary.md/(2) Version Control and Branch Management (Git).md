@@ -23,8 +23,8 @@ Pada task ini kita membuat branch baru sebagai develop dan feature 1 dan 2 lalu 
 
 Berikut kode hasil dari praktikum ini.
 
-[index.html](./praktikum/index.html)
+[index.html](../praktikum/index.html)
 
 output :
 
-![screeshot_github](./screenshots/screeshot_github.png)
+![screeshot_github](../screenshots/screeshot_github.png)
