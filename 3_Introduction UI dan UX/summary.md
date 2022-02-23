@@ -31,8 +31,8 @@ Pada task ini kita mencari fitur-fitur dan menjelaskannya
 
 Berikut kode hasil dari praktikum ini.
 
-[Task 2.docx](./praktikum/Task 2.docx)
+[Task 2.docx](../praktikum/Task 2.docx)
 
 output :
 
-![Contoh Desainnya](../screenshots/ui4.png)
+![Contoh Desainnya](../screenshots/ui4.jpg)
