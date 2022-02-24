@@ -32,8 +32,8 @@ Pada Task ini kita diperintahkan untuk membuat protottype berdasarkan desain yan
 
 Berikut kode hasil dari praktikum ini.
 
-[Task 3.txt](./praktikum/Task 3.txt)
+[Task 3.txt](../praktikum/Task 3.txt)
 
 output :
 
-![Screenshot Desain](./screenshots/Screenshot (326).png)
+![Screenshot Desain](../screenshots/Screenshot (326).png)
