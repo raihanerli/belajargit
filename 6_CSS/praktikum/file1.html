@@ -4,22 +4,56 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Latihan CSS</title>
-    <link  href=”file1.css” rel=”stylesheet”>
+    <title>Soal No 1 CSS</title>
+    <!-- <link  href=”file1.css” rel=”stylesheet”> -->
+    <style>
+      @import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+      .box-1 {
+        color: white;
+        width: 100px;
+        height: 100px;
+        font-family: 'Slabo 27px', serif; 
+        font-size: 20px;
+        background-color: red;
+        display: inline-block;
+        text-align: center;
+        margin: 50px;
+      }
+
+      .box-2 {
+        color: white;
+        width: 100px;
+        height: 100px;
+        font-family: 'Slabo 27px', serif; 
+        font-size: 20px;
+        background-color: blue;
+        display: inline-block;
+        text-align: center;
+      }
+
+      .box-3 {
+        color: white;
+        width: 350px;
+        height: 350px;
+        font-family: 'Slabo 27px', serif; 
+        font-size: 20px;
+        background-color: green;
+        display: block;
+        text-align: center;
+        border-radius: 10px;
+      }
+    </style>
 
 </head>
 
 <body>
 
-  <div class="box">
-      <p>
-      Saya adalah box red berukuran 100 px
-    </p>
-    </div>
-
-  <div class="box-101" id="blue">
+  <div class="box-1">
+      Saya adalah box red berukuran 100 px</div>
+  <div class="box-2">
       Saya adalah box blue berukuran 100 px</div>
-  <div class="box-300" id="green">
+  <div class="box-3">
       Saya adalah box green berukuran 300 px </div>
 
 </body>
