@@ -1,0 +1,11 @@
+.text-success {
+    color: lightgreen !important;
+}
+
+a:hover {
+    color: green !important;
+}
+
+section {
+    background-color: white !important;
+}
