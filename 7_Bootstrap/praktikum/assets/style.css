@@ -3,10 +3,88 @@
 }
 
 a:hover {
-    color: green !important;
+    color: lightgreen !important;
 }
 
 .text-simple {
     margin-top: 100px;
     color: grey;
+
+}
+
+.img-main {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    margin-bottom: 30px;
+}
+
+.title-container {
+    color:gray;
+
+}
+
+.read-more {
+    text-decoration: none;
+    color: gray;
+
+}
+
+.img-about {
+    max-width: 100%;
+}
+
+.about-content > h2 {
+    color: #252525;
+    font-family: "Roboto";
+    font-size: 39px;
+    font-weight: 100;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.list-unstyled > li {
+color: #626262;
+font-size: 13px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 2px;
+text-transform: capitalize;
+}
+
+.list-about > li > a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer {
+    background-color: #2a2c30;
+}
+
+.footer-logo {
+    color: white !important;
+    display: inline-block;
+    float: none;
+    font-size: 24px;
+    font-weight: 500;
+    height: 100%;
+    letter-spacing: 0.2em;
+    padding-left: 0;
+    padding-top: 0;
+    font-weight: bold;
+}
+
+.footer-logo > p {
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+.footer-logo > a {
+    color: white !important;
+    text-decoration: none;
+}
+
+.list-menu > h4 {
+    color: white;
+
 }
