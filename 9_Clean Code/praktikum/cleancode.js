@@ -2,25 +2,25 @@
 // bagian mana saja terjadi kekurangan tersebut? bagian deklarasi variabel class dan pendeklarasian isi dari kelas userservice
 // tuliskan alasan dari tiap kekurangan tersebut! penulisan kode susah untuk dieja, kodenya sulit dipahami
 
-class transportation {
-    var carType = "pick up";
-    var velocityPerHour = 0 ;
+class kendaraan {
+    var rodaMobil = 0;
+    var kecepatanPerJam = 0 ;
 }
 
-class car extends transportation {
-    void drive() {
-        addVelocity (20);
+class mobil extends kendaraan {
+    void berjalan() {
+        tambahKecepatan (10);
     }
 }
 
-addVelocity (var newVelocity) {
-    velocityPerHour += newVelocity;
+tambahKecepatan (var kecepatanBaru) {
+    kecepatanPerJam += kecepatanBaru;
 }
 
 void main() {
-    fastCar = new car ();
-    fastCar.drive();
+    mobilCepat = new mobil ();
+    mobilCepat.berjalan();
 
-    slowCar = new car ();
-    slowCar.drive();
+    mobilLamban = new mobil ();
+    mobilLamban.berjalan();
 }
