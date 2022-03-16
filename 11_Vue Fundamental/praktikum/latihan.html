@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>Latihan Vue</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <div v-for="todo in todos">{{todo}}</div>
+      <input type="text" v-model="newTodo" />
+      <button @click="addTodo">Tambahkan</button>
+      <div v-if="this.todos.length >= 4">Hebat!</div>
+    </div>
+
+    <script>
+      new Vue({
+        el: "#app",
+        data: {
+          newTodo: "",
+          todos: [],
+        },
+        methods: {
+          addTodo() {
+            this.todos.push(this.newTodo);
+            this.newTodo = "";
+          },
+        },
+      });
+    </script>
+  </body>
+</html>
