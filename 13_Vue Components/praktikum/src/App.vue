@@ -54,11 +54,10 @@ export default {
       this.isEdit = true;
       for (let index = 0; index < this.todos.length; index++) {
         const element = this.todos[index];
-        console.log(element.id, editId);
+        // console.log(element.id, editId);
         if (editId == element.id) {
-          console.log(element);
-          console.log(this.newEdit); //sampe sini doloooooo
-          
+          // console.log(element);
+          // console.log(this.newEdit); 
         }
       }
     },
