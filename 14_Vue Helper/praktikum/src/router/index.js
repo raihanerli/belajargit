@@ -1,10 +1,10 @@
 /* eslint-disable */
-import vue from 'vue';
+import Vue from 'vue';
 import VueRouter from 'vue-router';
 import homePage from '@/views/homePage.vue';
 import description from '@/views/thisDescription.vue';
 
-vue.use(VueRouter);
+Vue.use(VueRouter);
 
 const routes = [
     {
@@ -21,6 +21,6 @@ const routes = [
 const router = new VueRouter({
     mode: 'history',
     base: process.env.BASE_URL,
-    router,
+    routes,
 });
 export default router;

@@ -1,6 +1,6 @@
 /* eslint-disable */
 <template>
-  <div id="todoList">
+  <div id="homepage">
     <div class="card">
       <div class="card-header">
         <h4>Todo List</h4>
@@ -48,7 +48,6 @@
 
 <script>
 export default {
-  name: "homePage",
   computed: {
     getTodos() {
       return this.$store.state.todos;

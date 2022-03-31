@@ -6,7 +6,9 @@
 </template>
 
 <script>
-export default {};
+export default {
+    name: "App",
+};
 </script>
 
 <style>
@@ -36,7 +38,7 @@ body{
         padding-left: 5%;
         padding-right: 5%;
         width: 100%;
-        background-color: rgb(93, 93, 240);
+        background-color: grey;
     }
     .card-body{
         box-sizing: border-box;
@@ -71,7 +73,7 @@ body{
         width:80%;
         padding:5px !important;
         border-radius: 1px;
-        border: 1px solid  rgb(104, 92, 240)k;
+        border: 1px solid  rgb(130, 130, 137)k;
     }
     h4{
         color:#fff !important;
@@ -94,7 +96,7 @@ body{
         padding:10px;
         border:1px solid #fff;
         border-radius: 3px;
-        background-color: rgb(93, 93, 240);
+        background-color: rgb(44, 44, 51);
         color:#ffff !important;
         cursor: pointer;
 
@@ -104,9 +106,9 @@ body{
         background-color:rgb(241, 41, 41) !important;
     }
     label{
-        color:blue;
+        color:rgb(123, 123, 127);
         cursor: pointer;
     }
     label:hover{
-        color:blueviolet;
+        color:rgb(37, 33, 40);
     }</style>
