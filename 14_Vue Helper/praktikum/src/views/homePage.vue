@@ -103,19 +103,4 @@ export default {
 };
 </script>
 
-<style>
-body {
-  padding: 0;
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-#todoList {
-  box-sizing: border-box;
-  width: 100%;
-  padding-left: 5%;
-  padding-right: 5%;
-  padding-top: 20px;
-}
-
-</style>
+<style></style>

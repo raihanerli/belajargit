@@ -36,11 +36,3 @@ store
 ## Task
 ### Membuat project
 Pada task ini kita akan membuat sebuah todo list yang di lengkapi dengan tombol hapus dan edit.
-
-[App.vue](../vue-cli/src/App.vue)
-
-output :
-
-![Screenshot Content Pic 1](./screenshots/img1.png)
-![Screenshot Content Pic 2](./screenshots/img2.png)
-![Screenshot Content Pic 3](./screenshots/img3.png)
