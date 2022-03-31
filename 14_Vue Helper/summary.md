@@ -36,3 +36,13 @@ store
 ## Task
 ### Membuat project
 Pada task ini kita akan membuat sebuah todo list yang di lengkapi dengan tombol hapus dan edit.
+
+[App.vue](../14_Vue%20Helper/praktikum/src/App.vue)
+
+output :
+
+![Screenshot Content Pic 1](./screenshots/img1.png)
+![Screenshot Content Pic 2](./screenshots/img2.png)
+![Screenshot Content Pic 3](./screenshots/img3.png)
+![Screenshot Content Pic 4](./screenshots/img4.png)
+![Screenshot Content Pic 5](./screenshots/img5.png)
