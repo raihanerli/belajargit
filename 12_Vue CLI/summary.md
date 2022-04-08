@@ -7,7 +7,7 @@ Dalam materi ini, mempelajari :
 3. Vue Struktur Folder
 
 ### Vue CLI
-1. Pengertian --> Perkakas standau untuk mrmudahkan penyetelan/ pembuatan aplikasi vue baru.
+1. Pengertian --> Perkakas standar untuk mrmudahkan penyetelan/ pembuatan aplikasi vue baru.
     apa itu webpack? webpack adalah sebuah module bundler, digunakan untuk menggabungkan seluruh modul project aplikasi berupa file JavaScript, HTML, CSS, gambar, dan lain-lain menjadi satu file (tipe yang sama).
 
 2. Cara Kerja -->

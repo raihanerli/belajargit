@@ -25,7 +25,7 @@ C. Cara Kerja
 
 ### Dasar-dasar Vue
 A. Vue Instances
-    Setiap aplikasi vue diambil dengan membuatinstance vue baru dengan fungsi vue.
+    Setiap aplikasi vue diambil dengan membuat instance vue baru dengan fungsi vue.
 B Vue Data Binding
     Vue js menggunakan sintaks template berbasis HTML yang memungkinkan kita untuk secara deklaratif mengikat DOM yang dirender ke data instance vue yang mendasarinya.
 
