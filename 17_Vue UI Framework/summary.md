@@ -15,12 +15,12 @@ Dalam ateri ini mempelajari :
 2. Cara Kerja = Rangka kerja menyiapkan komponen yang sudah ada, lalu kita tinggal impor ke aplikasi, sesuai dengan kebutuhan dan keinginan.
 
 3. Macam Rangka Kerja UI yang Tersedia = 
-    Vuetify
-    BootstrapVue
-    Buefy
-    Ant-design Vue
-    Vuesax
-    dll.
+    - Vuetify
+    - BootstrapVue
+    - Buefy
+    - Ant-design Vue
+    - Vuesax
+    - dll.
 
 ### Vuetify
 1. Pengertian = library/pustaka yang memiliki lebih dari 80 komponen material design
@@ -30,38 +30,37 @@ Dalam ateri ini mempelajari :
 3. Dokumentasi Vuetify = tersedia di link https://vuetify.com/en/
 
 4. Penerapan = penggunaan vuetify dapat digunakan dari props pada komponen yang terdiri dari :
-    nama prop
-    deskripsi singkat
-    pratinjau komponen
-    pengalihan pratinjau gelap/terang atau biasa disebut dengan darkmode
-    experimen dengan codepen
-    lalu ada sourcecode dari github yang dapat dihubungkan
+    - nama prop
+    - deskripsi singkat
+    - pratinjau komponen
+    - pengalihan pratinjau gelap/terang atau biasa disebut dengan darkmode
+    - experimen dengan codepen
+    - lalu ada sourcecode dari github yang dapat dihubungkan
 ada juga documentation yang terhubung dengan API
-    v-btn
-    v-btn-toggle
+    - v-btn
+    - v-btn-toggle
 
 5. Cara Pemasangan = 
-    a. memasang dependensi menggunakan
+    - a. memasang dependensi menggunakan
     ``
     npm install vuetify
     ``
-    b. lalu daftarkan vuetify ke dalam berkas main.js
-    c. ubah App.vue, vuetify harus dibalut dengan v-app dari div menjadi v-app.
-    d. tambahkan font kedalam public/index.html
+    - b. lalu daftarkan vuetify ke dalam berkas main.js
+    - c. ubah App.vue, vuetify harus dibalut dengan v-app dari div menjadi v-app.
+    - d. tambahkan font kedalam public/index.html
 
 ### Manajemen Warna Tema
 1. Pengertian = pengaturan set warna yang dapat diterapkan pada tampilan aplikasi.
 
 2. Cara kerja = setel secara manual ketika aplikasi berjalan.
-komponen Vuetify menggunakan warna primary sebagai warna dominan.
-
-    cara akses = this.$vuetify.theme.themes.light
+    - komponen Vuetify menggunakan warna primary sebagai warna dominan.
+    - cara akses = this.$vuetify.theme.themes.light
 
 ### Gelap Terang
 1. Pengertian = gelap terang ini juga dapat disebut dengan nama darkmode
 
 2. Cara Kerja = menggunakan variable dengan nilai boolean
-    cara akses = this.$vuetify.theme.dark
+    - cara akses = this.$vuetify.theme.dark
 
 3. Penerapan = menggunkan fungsi lalu menambahkan menu pilihan warna
 
