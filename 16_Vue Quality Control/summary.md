@@ -26,3 +26,13 @@ Apa itu Matriks Ukur Kinerja adalah Tolak ukur penting yang menunjukkan informas
 Apa itu Mengoptimalkan Kinerja adalah Proses untuk meningkatkan kinerja aplikasi web berdasarkan informasi skor matriks ukur Indikator Core Web Vitals - LCP (Largest Contentful Paint) Berkaitan dengan kecepatan website - FID (First Input Delay) Berkaitan dengan baik atau tidaknya respons elemen halaman website - CLS (Cumulative Layout Shift) Berkaitan dengan stabilitas layout halaman website
 
 ## Task
+Membuat test dari sebuah operasi matematika.
+
+[index.js](./praktikum/src/utils/index.js)
+
+output :
+
+![Screenshot](./screenshots/img1.png)
+![Screenshot](./screenshots/img2.png)
+![Screenshot](./screenshots/img3.png)
+
