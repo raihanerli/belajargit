@@ -79,9 +79,9 @@ ada juga documentation yang terhubung dengan API
 4. Dialog atau Pop Up = yaitu teks yang muncul saat kita pertama kali membuka atau memuat halaman. Disesuaikan sesuai kondisi.
 
 ## Task
-Membuat 
+Membuat tugas
 
-[index.js](./praktikum/src/utils/index.js)
+[App.vue](./praktikum/src/App.vue)
 
 output :
 
