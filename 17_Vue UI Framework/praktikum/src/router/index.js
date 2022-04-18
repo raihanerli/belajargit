@@ -13,7 +13,6 @@ const routes = [
   },
   {
     path: '/detail/:id',
-    name: 'detail',
     component: DetailView
   }
 ]

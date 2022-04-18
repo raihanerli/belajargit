@@ -113,7 +113,7 @@ export default {
     },
   },
   mounted() {
-    this.$store.dispatch("fetchnews");
+    this.$store.dispatch("fetchNews");
   },
   methods: {
     setCategory(keyword) {
