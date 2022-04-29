@@ -1,0 +1,1 @@
+https://whimsical.com/kasus-1-HMoENuSDA95AAjC5cJZ4jZ
