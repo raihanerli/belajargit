@@ -33,5 +33,4 @@ Kasus 1
 flowchart adalah suatu bagan dengan simbol tertentu yang menggambarkan urutan dan hubungan antar proses secara mendetail.
 
 ## Task
-### Membuat project 
-Pada task ini kita akan membuat sebuah web simple yang hanya berisi isi komponen pwa.
+[whimsical] (https://whimsical.com/kasus-1-HMoENuSDA95AAjC5cJZ4jZ)
